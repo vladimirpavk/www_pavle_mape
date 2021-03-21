@@ -1,0 +1,23 @@
+{
+  "name": "www_pavle_mape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirpavk/www_pavle_mape.git"
+  },
+  "author": "Pavle Pavković",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirpavk/www_pavle_mape/issues"
+  },
+  "homepage": "https://github.com/vladimirpavk/www_pavle_mape#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
